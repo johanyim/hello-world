@@ -1,2 +1,3 @@
 # hello-world
-My first try at making an edit and making a commit
+My first try at making a repository
+This is my first try at commiting an edit!
